@@ -823,5 +823,626 @@
     "reference_cards": [
       "R31"
     ]
+  },
+  {
+    "id": "b-review-04",
+    "url": "https://images.squarespace-cdn.com/content/v1/58013da6414fb576eb8ea357/1490538106792-BA7R4JGB8V7ZUP3V9FEB/image-asset.jpeg",
+    "source_url": "https://www.dburk.studio/blog/2017/3/26/magazine-b",
+    "width": 2500,
+    "height": 1875,
+    "sha256": "6a3128e4a1eeace2a86ea473882a730e2614f1c50461b604bba64d98b3d52870",
+    "bytes": 428110,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/b-review-04.webp",
+    "reference_cards": [
+      "R32"
+    ]
+  },
+  {
+    "id": "b-review-05",
+    "url": "https://images.squarespace-cdn.com/content/v1/58013da6414fb576eb8ea357/1490538319873-4MDGZ734HJ8QMDVYYCW6/image-asset.jpeg",
+    "source_url": "https://www.dburk.studio/blog/2017/3/26/magazine-b",
+    "width": 2500,
+    "height": 1875,
+    "sha256": "e8e571691f311ae466af989d6c7c754a93fe8acaf2d328f1e200b6795f065617",
+    "bytes": 347524,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/b-review-05.webp",
+    "reference_cards": [
+      "R33"
+    ]
+  },
+  {
+    "id": "b-review-06",
+    "url": "https://images.squarespace-cdn.com/content/v1/58013da6414fb576eb8ea357/1490538693356-07L252WI9KEV71XBYIGE/IMG_5288.JPG",
+    "source_url": "https://www.dburk.studio/blog/2017/3/26/magazine-b",
+    "width": 2500,
+    "height": 1875,
+    "sha256": "ba0bdcdfed207aa5c905de41a39e284a817505975889f88004eb4411d6708017",
+    "bytes": 470108,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/b-review-06.webp",
+    "reference_cards": [
+      "R34"
+    ]
+  },
+  {
+    "id": "b-review-07",
+    "url": "https://images.squarespace-cdn.com/content/v1/58013da6414fb576eb8ea357/1490538476817-Z4BNE2DY8SDCVBCC83TP/image-asset.jpeg",
+    "source_url": "https://www.dburk.studio/blog/2017/3/26/magazine-b",
+    "width": 2500,
+    "height": 1875,
+    "sha256": "ed63f391411e6784c77eaa45b088976b612034972fd24c3eec4cc5d7130b5c8b",
+    "bytes": 519664,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/b-review-07.webp",
+    "reference_cards": [
+      "R35"
+    ]
+  },
+  {
+    "id": "b-aesop-07",
+    "url": "https://www.niste.ch/cdn/shop/files/new-mags-magazin-b-issue-16-aesop-niste-creative-simplicity-6485151.webp?crop=center&height=1200&v=1772579123&width=1200",
+    "source_url": "https://www.niste.ch/en/products/new-mags-magazin-b-issue-16-aesop",
+    "width": 675,
+    "height": 490,
+    "sha256": "adc3e6e69d636ba827f4e97b4b1393cc21b6868792cea75626bd8e7357bd1d63",
+    "bytes": 73241,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/b-aesop-07-display.jpg",
+    "reference_cards": [
+      "R36"
+    ],
+    "original_sha256": "ad5eed0f861676d21f517ad397643092deb1ab6c67b258082b5d2a544551e33d",
+    "original_dimensions": [
+      1200,
+      1200
+    ],
+    "crop_box": [
+      260,
+      355,
+      935,
+      845
+    ],
+    "transformation": "仅裁除外围商品展示背景；未改变跨页图文"
+  },
+  {
+    "id": "b-aesop-09",
+    "url": "https://www.niste.ch/cdn/shop/files/new-mags-magazin-b-issue-16-aesop-niste-creative-simplicity-9575647.webp?crop=center&height=1200&v=1772579123&width=1200",
+    "source_url": "https://www.niste.ch/en/products/new-mags-magazin-b-issue-16-aesop",
+    "width": 675,
+    "height": 490,
+    "sha256": "9e59f701762a876bc5163b75ce62072aedcd8907295429eb48c7ca244ce58b9b",
+    "bytes": 74866,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/b-aesop-09-display.jpg",
+    "reference_cards": [
+      "R36"
+    ],
+    "original_sha256": "1fd02c1bfcf3ce42009bbb199645182c853c6c242d6b93b725377c49e7289a6b",
+    "original_dimensions": [
+      1200,
+      1200
+    ],
+    "crop_box": [
+      260,
+      355,
+      935,
+      845
+    ],
+    "transformation": "仅裁除外围商品展示背景；未改变跨页图文"
+  },
+  {
+    "id": "b-aesop-10",
+    "url": "https://www.niste.ch/cdn/shop/files/new-mags-magazin-b-issue-16-aesop-niste-creative-simplicity-6763811.webp?crop=center&height=1200&v=1772579124&width=1200",
+    "source_url": "https://www.niste.ch/en/products/new-mags-magazin-b-issue-16-aesop",
+    "width": 675,
+    "height": 490,
+    "sha256": "497bb79528c4374b83a702bcccae703449a193b51e51d305e6b09e9330ee0b8e",
+    "bytes": 64048,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/b-aesop-10-display.jpg",
+    "reference_cards": [
+      "R37"
+    ],
+    "original_sha256": "6c947bc9ca76fad4df75c0e734b5cd28a443962cccde6ad0df9641463b327039",
+    "original_dimensions": [
+      1200,
+      1200
+    ],
+    "crop_box": [
+      260,
+      355,
+      935,
+      845
+    ],
+    "transformation": "仅裁除外围商品展示背景；未改变跨页图文"
+  },
+  {
+    "id": "interview2018-09",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/interview-24.jpg",
+    "source_url": "https://magculture.com/blogs/journal/interview-relaunched",
+    "width": 660,
+    "height": 425,
+    "sha256": "6352ad0b064c03e700501b12abc65e1271cf17ea2c7d2dfcc4452a81b1283600",
+    "bytes": 62854,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/interview2018-09.jpg",
+    "reference_cards": [
+      "R38"
+    ]
+  },
+  {
+    "id": "interview2018-10",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/interview-11.jpg",
+    "source_url": "https://magculture.com/blogs/journal/interview-relaunched",
+    "width": 660,
+    "height": 425,
+    "sha256": "4fd6d530ab34514c197ecf146ba44a97a6ee14dca3826ec2a640931aa0655004",
+    "bytes": 104517,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/interview2018-10.jpg",
+    "reference_cards": [
+      "R39"
+    ]
+  },
+  {
+    "id": "eye100-02",
+    "url": "https://peopleofprint.com/wp-content/uploads/2020/07/IMG_9069-2_opt.jpg",
+    "source_url": "https://peopleofprint.com/publication/eye-magazine-issue-100/",
+    "width": 750,
+    "height": 563,
+    "sha256": "d069792a133fe92884a69f930cfc3b84a9e7ccec382235376072144f4035466e",
+    "bytes": 64759,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/eye100-02.jpg",
+    "reference_cards": [
+      "R40"
+    ]
+  },
+  {
+    "id": "eye100-03",
+    "url": "https://peopleofprint.com/wp-content/uploads/2020/07/IMG_9106-2_opt.jpg",
+    "source_url": "https://peopleofprint.com/publication/eye-magazine-issue-100/",
+    "width": 750,
+    "height": 563,
+    "sha256": "cf5e2559a5ecb47eac86ac8a749fe3ccea05f2f3eaa367337582c1ada1d09728",
+    "bytes": 66401,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/eye100-03.jpg",
+    "reference_cards": [
+      "R40"
+    ]
+  },
+  {
+    "id": "eye100-08",
+    "url": "https://peopleofprint.com/wp-content/uploads/2020/07/IMG_9083_opt.jpg",
+    "source_url": "https://peopleofprint.com/publication/eye-magazine-issue-100/",
+    "width": 750,
+    "height": 563,
+    "sha256": "2083875bf7beebd04c1c1c135be65506b2d167e0714d53609fd575bc25a9184f",
+    "bytes": 88218,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/eye100-08.jpg",
+    "reference_cards": [
+      "R41"
+    ]
+  },
+  {
+    "id": "wired-designer-03",
+    "url": "https://images.squarespace-cdn.com/content/v1/5f4eeab1bb766f5d175a850c/1612898491660-GS7J1E1YN2VYWIP82SQK/2108FF_blomkamp_LO%3B48-1.jpg",
+    "source_url": "https://www.ecapossela.com/wired",
+    "width": 2500,
+    "height": 1699,
+    "sha256": "e2f6e49ec631ca29ed0a4b6d2a7d1e134b597d51c04cc7578b854dff9acb5de0",
+    "bytes": 284378,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/wired-designer-03.webp",
+    "reference_cards": [
+      "R42"
+    ]
+  },
+  {
+    "id": "wired-designer-04",
+    "url": "https://images.squarespace-cdn.com/content/v1/5f4eeab1bb766f5d175a850c/1612898577184-7HEODXN83OW6XE94GCCX/2108FF_blomkamp_LO%3B48-2.jpg",
+    "source_url": "https://www.ecapossela.com/wired",
+    "width": 2500,
+    "height": 1699,
+    "sha256": "bc83aeab6cf12f5ac63e7ce9d5b544359a7b51d06dc27a44fcd16dde9b5da4fb",
+    "bytes": 296108,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/wired-designer-04.webp",
+    "reference_cards": [
+      "R42"
+    ]
+  },
+  {
+    "id": "wired-designer-05",
+    "url": "https://images.squarespace-cdn.com/content/v1/5f4eeab1bb766f5d175a850c/1613102360632-QS830TLK388BMCX2W5IV/2108QQ_containership_LO%3B44.jpg",
+    "source_url": "https://www.ecapossela.com/wired",
+    "width": 2400,
+    "height": 3263,
+    "sha256": "cd744a715c46cd4e36edfd2d4414af6749d6cd8266c0b3300212ad8de17e2283",
+    "bytes": 768920,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/wired-designer-05.webp",
+    "reference_cards": [
+      "R43"
+    ]
+  },
+  {
+    "id": "wired-designer-06",
+    "url": "https://images.squarespace-cdn.com/content/v1/5f4eeab1bb766f5d175a850c/1614027054752-HYY5XY2BJF31IORYFMU4/2109QQ_onkalo.jpg",
+    "source_url": "https://www.ecapossela.com/wired",
+    "width": 2400,
+    "height": 3263,
+    "sha256": "d3178a2eca1902925a7668a8f71a15ee62204b31d72acf67847184cafde6f6a5",
+    "bytes": 806638,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/wired-designer-06.webp",
+    "reference_cards": [
+      "R43"
+    ]
+  },
+  {
+    "id": "wired-designer-20",
+    "url": "https://images.squarespace-cdn.com/content/v1/5f4eeab1bb766f5d175a850c/1612908856072-3OK7YXCH70VM033ONYKQ/2109FF_arttech.finalproof-1.jpg",
+    "source_url": "https://www.ecapossela.com/wired",
+    "width": 2500,
+    "height": 1699,
+    "sha256": "adb17e4e9d44869e783bcfb6a0890ccc66a1128c84faea5e400f4240d5f8f911",
+    "bytes": 245786,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/wired-designer-20.webp",
+    "reference_cards": [
+      "R44"
+    ]
+  },
+  {
+    "id": "wired-designer-21",
+    "url": "https://images.squarespace-cdn.com/content/v1/5f4eeab1bb766f5d175a850c/1612908857626-EQZDRGRJJXBUOQSOLTSS/2109FF_arttech.finalproof-2.jpg",
+    "source_url": "https://www.ecapossela.com/wired",
+    "width": 2500,
+    "height": 1699,
+    "sha256": "8a98d8444472b101ec8955b1e6359403d0a049b195b0a668e690aaffcecfdefb",
+    "bytes": 683956,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/wired-designer-21.webp",
+    "reference_cards": [
+      "R44"
+    ]
+  },
+  {
+    "id": "id374-03",
+    "url": "https://cdn.sanity.io/images/dr68vg6x/production/c19b2deb3961a53e9e3bb73b3a57d88036ba2447-6861x3860.jpg",
+    "source_url": "https://www.specialoffer.inc/work/issue-no-374",
+    "width": 6861,
+    "height": 3860,
+    "sha256": "0dded902b13c15fb752b8acec46edb7c0b9c10f030cdddfd1e04b6497d2a4c7b",
+    "bytes": 1575862,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/id374-03.jpg",
+    "reference_cards": [
+      "R45"
+    ]
+  },
+  {
+    "id": "id374-06",
+    "url": "https://cdn.sanity.io/images/dr68vg6x/production/c7eddba9c7489cc6999f2730b251bafb60c3ee05-3429x3429.jpg",
+    "source_url": "https://www.specialoffer.inc/work/issue-no-374",
+    "width": 3429,
+    "height": 3429,
+    "sha256": "bedcd5c083423a21699af65bcac4b85a5c084eb0340ca1732d9133599352d64b",
+    "bytes": 479665,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/id374-06.jpg",
+    "reference_cards": [
+      "R46"
+    ]
+  },
+  {
+    "id": "face2019-06",
+    "url": "https://m.itsnicethat.com/original_images/5d7128007fa44cbd2200b496.jpg?class=w828",
+    "source_url": "https://www.itsnicethat.com/news/the-face-magazine-redesign-mirko-borsche-alex-obrien-publication-060919",
+    "width": 724,
+    "height": 472,
+    "sha256": "b50637d94514b49f234b71d78cce77fd0e21ba405d15811dcff0efffdb947bc1",
+    "bytes": 121691,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/face2019-06.jpg",
+    "reference_cards": [
+      "R47"
+    ]
+  },
+  {
+    "id": "face2019-07",
+    "url": "https://m.itsnicethat.com/original_images/5d7128017fa44c40a10087fb.jpg?class=w828",
+    "source_url": "https://www.itsnicethat.com/news/the-face-magazine-redesign-mirko-borsche-alex-obrien-publication-060919",
+    "width": 724,
+    "height": 472,
+    "sha256": "dfafc916c5ad1a803e76f6f2592078ddf9f8eceb5aa4ba0b7b60d776ec45e6af",
+    "bytes": 88396,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/face2019-07.jpg",
+    "reference_cards": [
+      "R48"
+    ]
+  },
+  {
+    "id": "face2019-08",
+    "url": "https://m.itsnicethat.com/original_images/5d7128027fa44c7128004e39.jpg?class=w828",
+    "source_url": "https://www.itsnicethat.com/news/the-face-magazine-redesign-mirko-borsche-alex-obrien-publication-060919",
+    "width": 724,
+    "height": 472,
+    "sha256": "23aac50e7e5f5c8902213079ad7daf09d5d7330486041e3bc02d6effee0c987a",
+    "bytes": 96094,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/face2019-08.jpg",
+    "reference_cards": [
+      "R48"
+    ]
+  },
+  {
+    "id": "032c40-01",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/IMG_0116_1024x1024.jpg?v=1646825860",
+    "source_url": "https://magculture.com/blogs/journal/032c-40",
+    "width": 1000,
+    "height": 667,
+    "sha256": "a455364d190f6d6f303f10415d88f27bca8daf7677f6b727d6af9edf71d87fa2",
+    "bytes": 156249,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/032c40-01.jpg",
+    "reference_cards": [
+      "R49"
+    ]
+  },
+  {
+    "id": "032c40-02",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/IMG_0121_4b630114-dc8d-46ef-b3e0-f8726553c976_1024x1024.jpg?v=1646825878",
+    "source_url": "https://magculture.com/blogs/journal/032c-40",
+    "width": 1000,
+    "height": 667,
+    "sha256": "f91e50ccb3acb240fcf667c7351ef3abb4f18a21b47fdf68cc753927a4d3425d",
+    "bytes": 193904,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/032c40-02.jpg",
+    "reference_cards": [
+      "R49"
+    ]
+  },
+  {
+    "id": "032c30-08",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/IMG_6496.jpg",
+    "source_url": "https://magculture.com/blogs/journal/032c-30",
+    "width": 660,
+    "height": 440,
+    "sha256": "f3686e9fd9e2a2a9792379114d4a2b5807f147d8c5676604b292772de30099c7",
+    "bytes": 69342,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/032c30-08.jpg",
+    "reference_cards": [
+      "R50"
+    ]
+  },
+  {
+    "id": "popeye828-04",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/IMG_4858.jpg",
+    "source_url": "https://magculture.com/blogs/journal/popeye-828",
+    "width": 660,
+    "height": 440,
+    "sha256": "77aac5bdf101e14fb1bf11eb3602be642381a96308a9bc2b6928b1b79c72951f",
+    "bytes": 124644,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/popeye828-04.jpg",
+    "reference_cards": [
+      "R51"
+    ]
+  },
+  {
+    "id": "popeye828-03",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/IMG_4861.jpg",
+    "source_url": "https://magculture.com/blogs/journal/popeye-828",
+    "width": 660,
+    "height": 440,
+    "sha256": "b564ad205d47d1c357fba979b4d00a19b90ed7b7ca9748e6e9b4195fa0c58aac",
+    "bytes": 116809,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/popeye828-03.jpg",
+    "reference_cards": [
+      "R52"
+    ]
+  },
+  {
+    "id": "popeye828-05",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/IMG_4860.jpg",
+    "source_url": "https://magculture.com/blogs/journal/popeye-828",
+    "width": 660,
+    "height": 440,
+    "sha256": "82ea5a745f933560a187ec65d952505d6b7fa7a54382887d58694bbefd0e21e7",
+    "bytes": 100928,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/popeye828-05.jpg",
+    "reference_cards": [
+      "R52"
+    ]
+  },
+  {
+    "id": "apartamento14-04",
+    "url": "https://m.itsnicethat.com/original_images/5452061e5c3e3c1368001f95.jpg?class=w640",
+    "source_url": "https://www.itsnicethat.com/articles/apartamento",
+    "width": 595,
+    "height": 437,
+    "sha256": "46dd177227c9e4258fb3c3c40e86351f73b4ca1c2ccfd95ee39e2990e2139c26",
+    "bytes": 54699,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/apartamento14-04.jpg",
+    "reference_cards": [
+      "R53"
+    ]
+  },
+  {
+    "id": "apartamento14-06",
+    "url": "https://m.itsnicethat.com/original_images/545206255c3e3c799a00771a.jpg?class=w640",
+    "source_url": "https://www.itsnicethat.com/articles/apartamento",
+    "width": 595,
+    "height": 423,
+    "sha256": "22775c34e5fe1412399a7e4ce1f1ed11c82453fc0d72d6bba26c5386e167a313",
+    "bytes": 62865,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/apartamento14-06.jpg",
+    "reference_cards": [
+      "R54"
+    ]
+  },
+  {
+    "id": "apartamento14-07",
+    "url": "https://m.itsnicethat.com/original_images/545206345c3e3c1368001fb5.jpg?class=w640",
+    "source_url": "https://www.itsnicethat.com/articles/apartamento",
+    "width": 595,
+    "height": 420,
+    "sha256": "a29d86423a4a4ef951f65b03df6c624d24e8ca2b3aef51030c743361ee6052d1",
+    "bytes": 55342,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/apartamento14-07.jpg",
+    "reference_cards": [
+      "R54"
+    ]
+  },
+  {
+    "id": "lwlies101-01",
+    "url": "https://tco-london.transforms.svdcdn.com/production/tco/images/TCOL_LWL_Spreads_03.jpg?w=1024&q=75&fm=webp&fit=min&dm=1748427250&s=b851a85e53685e2a5e5e58b2cb6628d3",
+    "source_url": "https://lwlies.com/lwlies-magazine/lwlies-101-the-poor-things-issue-out-now",
+    "width": 1024,
+    "height": 682,
+    "sha256": "12c2acfecb4e975fa7e6076f0fa3d6332ec1664ecff8aee7c5f8be5cf6adf0f6",
+    "bytes": 85436,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/lwlies101-01.webp",
+    "reference_cards": [
+      "R55"
+    ]
+  },
+  {
+    "id": "lwlies101-00",
+    "url": "https://tco-london.transforms.svdcdn.com/production/tco/images/TCOL_LWL_Spreads_01.jpg?w=1024&q=75&fm=webp&fit=min&dm=1748427246&s=8d7a8cfd4671f3089a05490dfbdddd01",
+    "source_url": "https://lwlies.com/lwlies-magazine/lwlies-101-the-poor-things-issue-out-now",
+    "width": 1024,
+    "height": 682,
+    "sha256": "45845bbdfcde02b5c91a10cb30d40f2e3b8cd483227d727f518019ce750c5810",
+    "bytes": 51398,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/lwlies101-00.webp",
+    "reference_cards": [
+      "R56"
+    ]
+  },
+  {
+    "id": "lost5-15",
+    "url": "https://lostmagazine.org/wp-content/uploads/2018/04/LOST-Five-photos17-1024x694.jpg",
+    "source_url": "https://lostmagazine.org/lost-issue-five/",
+    "width": 1024,
+    "height": 694,
+    "sha256": "117c82da22df836068cdc1fea7261d2f3da35befd579ea7ddb30191a4f363887",
+    "bytes": 717370,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/lost5-15.jpg",
+    "reference_cards": [
+      "R57"
+    ]
+  },
+  {
+    "id": "lost5-20",
+    "url": "https://lostmagazine.org/wp-content/uploads/2018/04/LOST-Five-photos23-1024x694.jpg",
+    "source_url": "https://lostmagazine.org/lost-issue-five/",
+    "width": 1024,
+    "height": 694,
+    "sha256": "2a8a66e09b9825b0fa77dce34a93cad6b819089aa17e9097a6fb0466180640a5",
+    "bytes": 1054177,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/lost5-20.jpg",
+    "reference_cards": [
+      "R58"
+    ]
+  },
+  {
+    "id": "lost5-21",
+    "url": "https://lostmagazine.org/wp-content/uploads/2018/04/LOST-Five-photos24-1024x694.jpg",
+    "source_url": "https://lostmagazine.org/lost-issue-five/",
+    "width": 1024,
+    "height": 694,
+    "sha256": "74faf3da229f205c4261c4980f1879f3c51911f6c5bd27c750b52d19e80509b1",
+    "bytes": 750337,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/lost5-21.jpg",
+    "reference_cards": [
+      "R58"
+    ]
+  },
+  {
+    "id": "blog-toiletpaper-09",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/IMG_7068.jpg",
+    "source_url": "https://magculture.com/blogs/journal/magazine-of-the-week-toilet-paper",
+    "width": 1024,
+    "height": 683,
+    "sha256": "9b16a8088acb69a1923426c12c93225c8a191dab3bffffecffdb1b459e8c34d5",
+    "bytes": 103494,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/blog-toiletpaper-09.jpg",
+    "reference_cards": [
+      "R59"
+    ]
+  },
+  {
+    "id": "blog-toiletpaper-11",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/IMG_7072.jpg",
+    "source_url": "https://magculture.com/blogs/journal/magazine-of-the-week-toilet-paper",
+    "width": 1024,
+    "height": 683,
+    "sha256": "1a1aaac31ce032dd31b99e82363bb4953f469ee4231bdb9c94b92a4facaf0594",
+    "bytes": 224561,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/blog-toiletpaper-11.jpg",
+    "reference_cards": [
+      "R59"
+    ]
   }
 ]
