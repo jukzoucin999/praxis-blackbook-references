@@ -1,192 +1,827 @@
 [
   {
     "id": "a24-tax-designer-02",
-    "path": "images/a24-tax-designer-02.png",
     "url": "https://freight.cargo.site/t/original/i/337e277395c2a3f75843104c399cbea3af9fcad66ec6b15add29c8e86883dfda/A24_EEAAO_Zine_03.png",
     "source_url": "https://shira-inbar.com/A24-Zine-Tax-Season",
     "width": 1200,
     "height": 950,
     "sha256": "0ac25b0c0c6d626185f1ea8781e1e5c52086f5496a49e9796e82edb47cdcc8fe",
-    "bytes": 1788591
-  },
-  {
-    "id": "a24-tax-designer-05",
-    "path": "images/a24-tax-designer-05.png",
-    "url": "https://freight.cargo.site/t/original/i/bc1baaac61f1d9b6734f5b369587d7997f1bd4c93bb4e656e21f99602dc80af3/A24_EEAAO_Zine_08.png",
-    "source_url": "https://shira-inbar.com/A24-Zine-Tax-Season",
-    "width": 1200,
-    "height": 950,
-    "sha256": "68bb30a52153b1a74beb4ef71ee622e2915a6884421e369462fb9add3b8c9061",
-    "bytes": 1795634
+    "bytes": 1788591,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/a24-tax-designer-02.png",
+    "reference_cards": [
+      "R01"
+    ]
   },
   {
     "id": "a24-tax-designer-06",
-    "path": "images/a24-tax-designer-06.png",
     "url": "https://freight.cargo.site/t/original/i/a8b0d4cd0975ae45503fc19ef965747bc87ae9f601e3900f0dfb7f4c98c04de0/A24_EEAAO_Zine_05.png",
     "source_url": "https://shira-inbar.com/A24-Zine-Tax-Season",
     "width": 1200,
     "height": 950,
     "sha256": "2b485a2740f5ea4fd97ab1de9ed1416bb4a23864d7e9793b7cae3a718b952fc3",
-    "bytes": 1582971
+    "bytes": 1582971,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/a24-tax-designer-06.png",
+    "reference_cards": [
+      "R02"
+    ]
+  },
+  {
+    "id": "a24-tax-designer-05",
+    "url": "https://freight.cargo.site/t/original/i/bc1baaac61f1d9b6734f5b369587d7997f1bd4c93bb4e656e21f99602dc80af3/A24_EEAAO_Zine_08.png",
+    "source_url": "https://shira-inbar.com/A24-Zine-Tax-Season",
+    "width": 1200,
+    "height": 950,
+    "sha256": "68bb30a52153b1a74beb4ef71ee622e2915a6884421e369462fb9add3b8c9061",
+    "bytes": 1795634,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/a24-tax-designer-05.png",
+    "reference_cards": [
+      "R03"
+    ]
   },
   {
     "id": "a24-frenemies-designer-07",
-    "path": "images/a24-frenemies-designer-07.png",
     "url": "https://freight.cargo.site/t/original/i/8cdae577cd7a5136497fdcebda4c4017f13fc3dab6dcf9a05dbcff66465d934b/Reijn_ISSUE19_BBB-Frenemies_1200x950_08.png",
     "source_url": "https://shira-inbar.com/A24-Zine-Frenemies",
     "width": 1200,
     "height": 950,
     "sha256": "95cee7a9833db14036a9ef961c16d73780363152c48326f3e049e8db07ad1ba0",
-    "bytes": 1795407
+    "bytes": 1795407,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/a24-frenemies-designer-07.png",
+    "reference_cards": [
+      "R04"
+    ]
   },
   {
     "id": "a24-frenemies-designer-08",
-    "path": "images/a24-frenemies-designer-08.png",
     "url": "https://freight.cargo.site/t/original/i/6713fb3e571758b84a04a912518327b7fdf4b5c259073ef0f92e00d5b5fd7d9a/Reijn_ISSUE19_BBB-Frenemies_1200x950_04.png",
     "source_url": "https://shira-inbar.com/A24-Zine-Frenemies",
     "width": 1200,
     "height": 950,
     "sha256": "e7167de3c907abaa5c734edfe8fa0b42c56eeda38efd38f8ce90911ab92d1d6b",
-    "bytes": 2213115
+    "bytes": 2213115,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/a24-frenemies-designer-08.png",
+    "reference_cards": [
+      "R05"
+    ]
   },
   {
     "id": "playground-36kr-05",
-    "path": "images/playground-36kr-05.jpg",
     "url": "https://img.36krcdn.com/hsossms/20250516/v2_9a804072e6c2435988b088837eb8fb3a@5679941_oswg1345605oswg1018oswg668_img_000?x-oss-process=image/format,jpg/interlace,1",
     "source_url": "https://eu.36kr.com/en/p/3294997781121029",
     "width": 1018,
     "height": 668,
     "sha256": "a4dc90e9b40fbe08b9757a07373cc710c291eb21f299f122cdb14eca21bb0dcd",
-    "bytes": 153644
+    "bytes": 153644,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/playground-36kr-05.jpg",
+    "reference_cards": [
+      "R06"
+    ]
   },
   {
     "id": "playground-36kr-09",
-    "path": "images/playground-36kr-09.jpg",
     "url": "https://img.36krcdn.com/hsossms/20250516/v2_9a3b4224a5a24685b75ce03c92cea45b@5679941_oswg1180003oswg1027oswg679_img_000?x-oss-process=image/format,jpg/interlace,1",
     "source_url": "https://eu.36kr.com/en/p/3294997781121029",
     "width": 1027,
     "height": 679,
     "sha256": "415b3127c06e64a262152c0c40f4dccd557892356189eae75ddafd357d43a12a",
-    "bytes": 116503
+    "bytes": 116503,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/playground-36kr-09.jpg",
+    "reference_cards": [
+      "R07"
+    ]
   },
   {
     "id": "playground-36kr-10",
-    "path": "images/playground-36kr-10.jpg",
     "url": "https://img.36krcdn.com/hsossms/20250516/v2_4874cc0287df4bc9a42aac37c344f6e3@5679941_oswg256585oswg1014oswg784_img_000?x-oss-process=image/format,jpg/interlace,1",
     "source_url": "https://eu.36kr.com/en/p/3294997781121029",
     "width": 1014,
     "height": 784,
     "sha256": "df22b3ee1a040918d0133b65932483b754c55b16bcc96a851824c15a9af5627d",
-    "bytes": 45467
+    "bytes": 45467,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/playground-36kr-10.jpg",
+    "reference_cards": [
+      "R07"
+    ]
   },
   {
     "id": "playground-36kr-12",
-    "path": "images/playground-36kr-12.jpg",
     "url": "https://img.36krcdn.com/hsossms/20250516/v2_ee53040686fa44a386cfa015cd60d587@5679941_oswg165224oswg1080oswg800_img_000?x-oss-process=image/format,jpg/interlace,1",
     "source_url": "https://eu.36kr.com/en/p/3294997781121029",
     "width": 1080,
     "height": 800,
     "sha256": "2c53846088fb756ff0efaa5bd5708f6d37e995bcfd12b4e579225b848737cf76",
-    "bytes": 165224
+    "bytes": 165224,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/playground-36kr-12.jpg",
+    "reference_cards": [
+      "R08"
+    ]
   },
   {
     "id": "eye-designer-08",
-    "path": "images/eye-designer-08.png",
     "url": "https://freight.cargo.site/t/original/i/7bb312cea25ffe33bf01c8c0b3224ff80c44ad48b3f9e5a91e1dfaf063af6d61/SI_EOD_spreads_019.png",
     "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
     "width": 2400,
     "height": 1600,
     "sha256": "ed04726253ba08c3f62aae0875f0e2f4a681925faefc80f99cec7fdc2a9e8ba7",
-    "bytes": 1234025
+    "bytes": 1234025,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/eye-designer-08.png",
+    "reference_cards": [
+      "R09"
+    ]
   },
   {
     "id": "eye-designer-14",
-    "path": "images/eye-designer-14.png",
     "url": "https://freight.cargo.site/t/original/i/c9707b5ea1687a6f4d5651b4aa1b1486fe94bc3973d037e0aa5e987f82549eb2/SI_EOD_spreads_056.png",
     "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
     "width": 2400,
     "height": 1600,
     "sha256": "a2b821ff08ca7813fb2cf1e99aaefdb7ac75e35c97d86fe5c83e1a92feba462d",
-    "bytes": 1202807
-  },
-  {
-    "id": "eye-designer-15",
-    "path": "images/eye-designer-15.png",
-    "url": "https://freight.cargo.site/t/original/i/5487824c400c103e1c9727fd393d7f0df54eb74bd0b5bdd51eb8d2eaf214a89c/SI_EOD_spreads_059.png",
-    "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
-    "width": 2400,
-    "height": 1600,
-    "sha256": "b9f10f4588c00451e514a23bf6bb009b2abcb18b2c97626455ba64c6818cd751",
-    "bytes": 1283888
-  },
-  {
-    "id": "eye-designer-16",
-    "path": "images/eye-designer-16.png",
-    "url": "https://freight.cargo.site/t/original/i/71a3d7e1b35b2b2dfe552acd384de3a2882d9407e4097fe42aa590d6fdf9fca6/SI_EOD_spreads_058.png",
-    "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
-    "width": 2400,
-    "height": 1600,
-    "sha256": "f1c482165aa3446f45c4972cdd59e30025072bc7b53854d520415f04a7b497ee",
-    "bytes": 1317093
+    "bytes": 1202807,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/eye-designer-14.png",
+    "reference_cards": [
+      "R10"
+    ]
   },
   {
     "id": "eye-designer-17",
-    "path": "images/eye-designer-17.png",
     "url": "https://freight.cargo.site/t/original/i/1cc76fae829059609daa7a4e7dfdd9e0d3e39b2ceef345653a04b7cd432bae11/SI_EOD_spreads_057.png",
     "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
     "width": 2400,
     "height": 1600,
     "sha256": "da58d9bc64da4327c029ea5c95685d9572794023df412ee0263a2714f3b43b96",
-    "bytes": 1211614
+    "bytes": 1211614,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/eye-designer-17.png",
+    "reference_cards": [
+      "R10"
+    ]
   },
   {
-    "id": "eye-designer-18",
-    "path": "images/eye-designer-18.png",
-    "url": "https://freight.cargo.site/t/original/i/ed2549cc3ad561b36e4260c7a27484394950dcc22586b14390004e56061bc0dd/SI_EOD_spreads_061.png",
+    "id": "eye-designer-16",
+    "url": "https://freight.cargo.site/t/original/i/71a3d7e1b35b2b2dfe552acd384de3a2882d9407e4097fe42aa590d6fdf9fca6/SI_EOD_spreads_058.png",
     "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
     "width": 2400,
     "height": 1600,
-    "sha256": "89e406febd5b0a119f527cb7ad7beaea96273b74075ddec8c953413b144e14f4",
-    "bytes": 1301255
+    "sha256": "f1c482165aa3446f45c4972cdd59e30025072bc7b53854d520415f04a7b497ee",
+    "bytes": 1317093,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/eye-designer-16.png",
+    "reference_cards": [
+      "R10"
+    ]
+  },
+  {
+    "id": "eye-designer-15",
+    "url": "https://freight.cargo.site/t/original/i/5487824c400c103e1c9727fd393d7f0df54eb74bd0b5bdd51eb8d2eaf214a89c/SI_EOD_spreads_059.png",
+    "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
+    "width": 2400,
+    "height": 1600,
+    "sha256": "b9f10f4588c00451e514a23bf6bb009b2abcb18b2c97626455ba64c6818cd751",
+    "bytes": 1283888,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/eye-designer-15.png",
+    "reference_cards": [
+      "R10"
+    ]
   },
   {
     "id": "eye-designer-19",
-    "path": "images/eye-designer-19.png",
     "url": "https://freight.cargo.site/t/original/i/57f0189e62a3b5a1c299bd6ea41aed1f54bf894050da7db3bba73b675af6c2ba/SI_EOD_spreads_060.png",
     "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
     "width": 2400,
     "height": 1600,
     "sha256": "3c231b25b3f1cbe1de1f6af564e3335916ff1e1db8ca64a170998ea39c23d257",
-    "bytes": 1178178
+    "bytes": 1178178,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/eye-designer-19.png",
+    "reference_cards": [
+      "R10"
+    ]
+  },
+  {
+    "id": "eye-designer-18",
+    "url": "https://freight.cargo.site/t/original/i/ed2549cc3ad561b36e4260c7a27484394950dcc22586b14390004e56061bc0dd/SI_EOD_spreads_061.png",
+    "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
+    "width": 2400,
+    "height": 1600,
+    "sha256": "89e406febd5b0a119f527cb7ad7beaea96273b74075ddec8c953413b144e14f4",
+    "bytes": 1301255,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/eye-designer-18.png",
+    "reference_cards": [
+      "R10"
+    ]
   },
   {
     "id": "eye-designer-20",
-    "path": "images/eye-designer-20.png",
     "url": "https://freight.cargo.site/t/original/i/c06c18641f1f72ca6db6e620c3fe5158b8bb694a000cc5b285c6aeb1e6c0a08a/SI_EOD_spreads_070.png",
     "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
     "width": 2400,
     "height": 1600,
     "sha256": "0d715887aace186fdf8b052531e9fba4cd00669afdf20e4763b244537c344e17",
-    "bytes": 1221498
+    "bytes": 1221498,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/eye-designer-20.png",
+    "reference_cards": [
+      "R11"
+    ]
   },
   {
     "id": "eye-designer-21",
-    "path": "images/eye-designer-21.png",
     "url": "https://freight.cargo.site/t/original/i/f9713ba5bb7f673a4aa357d7cb4f97803ee41e8a603d5ce8c6feb8b0d40461f7/SI_EOD_spreads_071.png",
     "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
     "width": 2400,
     "height": 1600,
     "sha256": "4b911d849e52b424cb66d51160a296cbcf7fa674a3aa6a181f7b4709bb36c049",
-    "bytes": 1208839
+    "bytes": 1208839,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/eye-designer-21.png",
+    "reference_cards": [
+      "R11"
+    ]
   },
   {
     "id": "wor-info-03",
-    "path": "images/wor-info-03.jpg",
     "url": "https://storage.ghost.io/c/f9/9b/f99be44b-1513-48cb-a1ee-84aa342901cb/content/images/S3/grafik/11509/2b32283a-bf44-4302-ae64-75ac660d0830.jpg",
     "source_url": "https://www.grafik.net/data-bomb/",
     "width": 620,
     "height": 388,
     "sha256": "b6921b79d240eb89e7e5f5c53440e33f812776325dbe382443e167d22e63ba2c",
-    "bytes": 138065
+    "bytes": 138065,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/wor-info-03.jpg",
+    "reference_cards": [
+      "R12"
+    ]
+  },
+  {
+    "id": "kernel-carder-3",
+    "url": "https://freight.cargo.site/t/original/i/70a274dcb36b312248f0d74d3e47091aaf8a46e87fc1a89ae7e608d0aebe8b7a/kernel-4_final_42.jpg",
+    "source_url": "https://justincarder.website/Kernel-Magazine",
+    "width": 792,
+    "height": 612,
+    "sha256": "272a2567118a7af0f2b8a328fa3b3be54bb7cdf923da21bac719b7f0e27a696e",
+    "bytes": 60759,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/kernel-carder-3.jpg",
+    "reference_cards": [
+      "R13"
+    ]
+  },
+  {
+    "id": "kernel-carder-4",
+    "url": "https://freight.cargo.site/t/original/i/03039964f86201d379873ffcda0ce673df8cafad03386515de5b1d4014b22084/kernel-4_final_122.jpg",
+    "source_url": "https://justincarder.website/Kernel-Magazine",
+    "width": 792,
+    "height": 612,
+    "sha256": "01a15e3e1a3e609db266acce731d9b4d184678f08898b7ef6503fc8f1e98b084",
+    "bytes": 150670,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/kernel-carder-4.jpg",
+    "reference_cards": [
+      "R14"
+    ]
+  },
+  {
+    "id": "kernel-qr-detail",
+    "url": "https://freight.cargo.site/t/original/i/03039964f86201d379873ffcda0ce673df8cafad03386515de5b1d4014b22084/kernel-4_final_122.jpg",
+    "source_url": "https://justincarder.website/Kernel-Magazine",
+    "width": 338,
+    "height": 370,
+    "sha256": "8d599fc0d413bc9856445bce183be3d38990503c15457ab9667e75ebeb24d154",
+    "bytes": 145984,
+    "visually_reviewed": true,
+    "review_level": "individual_crop_and_contact_sheet",
+    "path": "images/kernel-qr-detail.png",
+    "reference_cards": [
+      "R14"
+    ]
+  },
+  {
+    "id": "kernel-rules-the-rules",
+    "url": "https://www.connieliu.work/images/mag.png",
+    "source_url": "https://www.connieliu.work/reboot",
+    "width": 324,
+    "height": 436,
+    "sha256": "f14eb830e48f29f6cf399bc0c4396aa2fa7c584f579604e905bdd98c94ff9912",
+    "bytes": 256912,
+    "visually_reviewed": true,
+    "review_level": "individual_crop_and_contact_sheet",
+    "path": "images/kernel-rules-the-rules.png",
+    "reference_cards": [
+      "R15"
+    ]
+  },
+  {
+    "id": "kernel-rules-regulation",
+    "url": "https://www.connieliu.work/images/mag.png",
+    "source_url": "https://www.connieliu.work/reboot",
+    "width": 327,
+    "height": 436,
+    "sha256": "1d12e58ee936b04f44b0bab2d50e6176bebb41d3d1654c20e3fa63c5d1f3a34b",
+    "bytes": 248905,
+    "visually_reviewed": true,
+    "review_level": "individual_crop_and_contact_sheet",
+    "path": "images/kernel-rules-regulation.png",
+    "reference_cards": [
+      "R15"
+    ]
+  },
+  {
+    "id": "kernel-rules-playing-matches",
+    "url": "https://www.connieliu.work/images/mag.png",
+    "source_url": "https://www.connieliu.work/reboot",
+    "width": 327,
+    "height": 435,
+    "sha256": "bb381fc13c95dd87ce0005a4bfe4ad92d094eb0de22fcdc09efb98eb08964ea8",
+    "bytes": 277994,
+    "visually_reviewed": true,
+    "review_level": "individual_crop_and_contact_sheet",
+    "path": "images/kernel-rules-playing-matches.png",
+    "reference_cards": [
+      "R15"
+    ]
+  },
+  {
+    "id": "kernel-special-unfolded",
+    "url": "https://www.connieliu.work/images/launch.png",
+    "source_url": "https://www.connieliu.work/reboot",
+    "width": 724,
+    "height": 967,
+    "sha256": "57d1a4ad22321ac9a5c7db88869fe57f403d3e30c9285b461e815b65dcc831b6",
+    "bytes": 1213694,
+    "visually_reviewed": true,
+    "review_level": "individual_crop_and_contact_sheet",
+    "path": "images/kernel-special-unfolded.png",
+    "reference_cards": [
+      "R16"
+    ]
+  },
+  {
+    "id": "kernel-special-in-hand-pack",
+    "url": "https://www.connieliu.work/images/launch.png",
+    "source_url": "https://www.connieliu.work/reboot",
+    "width": 723,
+    "height": 967,
+    "sha256": "11d25df71ff341f074c8735ba0c2d8c7f85a724013ebd1b63f7abc315950ebf2",
+    "bytes": 1413285,
+    "visually_reviewed": true,
+    "review_level": "individual_crop_and_contact_sheet",
+    "path": "images/kernel-special-in-hand-pack.png",
+    "reference_cards": [
+      "R16"
+    ]
+  },
+  {
+    "id": "brand-lucas-03",
+    "url": "https://www.lucasfonts.com/media/Brand-049.png",
+    "source_url": "https://www.lucasfonts.com/gallery/books-newspapers/brand-hk",
+    "width": 1500,
+    "height": 1000,
+    "sha256": "9fc8c8c9b1f21b7af436eccd02cf21fab7d7d0d84aa6d8f9e5fd4cff1b4b2431",
+    "bytes": 6770097,
+    "visually_reviewed": true,
+    "review_level": "individual_image_full_size",
+    "path": "images/brand-lucas-03.png",
+    "reference_cards": [
+      "R17"
+    ]
+  },
+  {
+    "id": "brand-lucas-04",
+    "url": "https://www.lucasfonts.com/media/Brand-031.png",
+    "source_url": "https://www.lucasfonts.com/gallery/books-newspapers/brand-hk",
+    "width": 1500,
+    "height": 1000,
+    "sha256": "9568b0665c9f854defbc3a3b216829500e9bc20824ea4f2c99d719c1db7fb054",
+    "bytes": 6996078,
+    "visually_reviewed": true,
+    "review_level": "individual_image_full_size",
+    "path": "images/brand-lucas-04.png",
+    "reference_cards": [
+      "R17"
+    ]
+  },
+  {
+    "id": "brand-brand75-04",
+    "url": "https://en.aohatabooks.com/cdn/shop/files/IMG_2306.jpg?quality=80&v=1728812682&width=1500",
+    "source_url": "https://aohatabooks.com/products/brand-no-75-experimental-graphics-1",
+    "width": 1470,
+    "height": 1960,
+    "sha256": "67bf7a01808f0fe9279edd8a80b68651e613708c3ce41ddc1877be6c4bab9559",
+    "bytes": 491078,
+    "visually_reviewed": true,
+    "review_level": "individual_image_full_size",
+    "path": "images/brand-brand75-04.jpg",
+    "reference_cards": [
+      "R18"
+    ]
+  },
+  {
+    "id": "brand-brand75-08",
+    "url": "https://en.aohatabooks.com/cdn/shop/files/IMG_2302.jpg?quality=80&v=1728812682&width=1500",
+    "source_url": "https://aohatabooks.com/products/brand-no-75-experimental-graphics-1",
+    "width": 1470,
+    "height": 1960,
+    "sha256": "c4871515c2eed08c8e4815c4809a9fcd90ad5e1eacb7756dbc56304ff8330fbb",
+    "bytes": 550309,
+    "visually_reviewed": true,
+    "review_level": "individual_image_full_size",
+    "path": "images/brand-brand75-08.jpg",
+    "reference_cards": [
+      "R19"
+    ]
+  },
+  {
+    "id": "brand-brand75-07",
+    "url": "https://en.aohatabooks.com/cdn/shop/files/IMG_2303.jpg?quality=80&v=1728812682&width=1500",
+    "source_url": "https://aohatabooks.com/products/brand-no-75-experimental-graphics-1",
+    "width": 1470,
+    "height": 1960,
+    "sha256": "56b5ecb4b67136c22f2e55fa6d7d30f5444520df2942d9c9644ee287b961b4e8",
+    "bytes": 300113,
+    "visually_reviewed": true,
+    "review_level": "individual_image_full_size",
+    "path": "images/brand-brand75-07.jpg",
+    "reference_cards": [
+      "R20"
+    ]
+  },
+  {
+    "id": "brand-brand75-10",
+    "url": "https://en.aohatabooks.com/cdn/shop/files/IMG_2299.jpg?quality=80&v=1728812682&width=1500",
+    "source_url": "https://aohatabooks.com/products/brand-no-75-experimental-graphics-1",
+    "width": 1470,
+    "height": 1960,
+    "sha256": "59734a201dff8b52973bce2f5b3ed1275ef363b99f2a2c6ffaa4d84ca9daff41",
+    "bytes": 269291,
+    "visually_reviewed": true,
+    "review_level": "individual_image_full_size",
+    "path": "images/brand-brand75-10.jpg",
+    "reference_cards": [
+      "R20"
+    ]
+  },
+  {
+    "id": "brand-brand75-11",
+    "url": "https://en.aohatabooks.com/cdn/shop/files/IMG_2298.jpg?quality=80&v=1728812682&width=1500",
+    "source_url": "https://aohatabooks.com/products/brand-no-75-experimental-graphics-1",
+    "width": 1470,
+    "height": 1960,
+    "sha256": "b3679a0d39d221b78913d865d01ca452eddf0997d3031281eb8cebe8b89e687d",
+    "bytes": 207140,
+    "visually_reviewed": true,
+    "review_level": "individual_image_full_size",
+    "path": "images/brand-brand75-11.jpg",
+    "reference_cards": [
+      "R20"
+    ]
+  },
+  {
+    "id": "brand-brand63-07",
+    "url": "https://cdn-saas-web-116-236.cdn-nhncommerce.com/designtr6510_godomall_com/data/editor/goods/220818/5_143501.jpg",
+    "source_url": "https://www.designbook.co.kr/goods/goods_view.php?goodsNo=11688",
+    "width": 550,
+    "height": 361,
+    "sha256": "8d77f5d775204c7428471b9e9794d281ad290a74e90116db3145707ea6a1e856",
+    "bytes": 55064,
+    "visually_reviewed": true,
+    "review_level": "individual_image_full_size",
+    "path": "images/brand-brand63-07.jpg",
+    "reference_cards": [
+      "R21"
+    ]
+  },
+  {
+    "id": "brand-brand63-15",
+    "url": "https://cdn-saas-web-116-236.cdn-nhncommerce.com/designtr6510_godomall_com/data/editor/goods/220818/12_143558.jpg",
+    "source_url": "https://www.designbook.co.kr/goods/goods_view.php?goodsNo=11688",
+    "width": 550,
+    "height": 361,
+    "sha256": "3767d2bf19059572cc33529d29bd7c7bd4e6d230809d1e4a79e72ebf9feab296",
+    "bytes": 62184,
+    "visually_reviewed": true,
+    "review_level": "individual_image_full_size",
+    "path": "images/brand-brand63-15.jpg",
+    "reference_cards": [
+      "R21"
+    ]
+  },
+  {
+    "id": "about-survey-chart",
+    "url": "https://file.digitaling.com/eImg/uimages/20240925/1727236904196741.png",
+    "source_url": "https://www.digitaling.com/articles/1261294.html",
+    "width": 934,
+    "height": 1314,
+    "sha256": "6c86b9f80b3cea4d077d70b5e8328756e1b11a9a9edb5e08760a04793f481347",
+    "bytes": 1003465,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/about-survey-chart.png",
+    "reference_cards": [
+      "R22"
+    ]
+  },
+  {
+    "id": "about-survey-profiles",
+    "url": "https://file.digitaling.com/eImg/uimages/20240925/1727236994912610.png",
+    "source_url": "https://www.digitaling.com/articles/1261294.html",
+    "width": 1044,
+    "height": 1188,
+    "sha256": "f3b480cfff8971e8fdbb139eb94fe7d29e97ba73b67e7840e0776aebb8faad7c",
+    "bytes": 1347458,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/about-survey-profiles.png",
+    "reference_cards": [
+      "R22"
+    ]
+  },
+  {
+    "id": "about-outdoor-p134",
+    "url": "https://file.digitaling.com/eImg/uimages/20240925/1727248833540189.png",
+    "source_url": "https://www.digitaling.com/articles/1261294.html",
+    "width": 1010,
+    "height": 1276,
+    "sha256": "2ef945ee44a740e618eb7dd840c22deb9a3485a6ec14f45ef30d6657b389546e",
+    "bytes": 870067,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/about-outdoor-p134.png",
+    "reference_cards": [
+      "R23"
+    ]
+  },
+  {
+    "id": "about-camping-p88",
+    "url": "https://file.digitaling.com/eImg/uimages/20240925/1727249322216371.png",
+    "source_url": "https://www.digitaling.com/articles/1261294.html",
+    "width": 1032,
+    "height": 1280,
+    "sha256": "443c5bdf6dd87f689c0b061880aa6f633e613e8b0cd4e18d46010661ac36fc47",
+    "bytes": 937073,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/about-camping-p88.png",
+    "reference_cards": [
+      "R23"
+    ]
+  },
+  {
+    "id": "about-skateboard-p114",
+    "url": "https://file.digitaling.com/eImg/uimages/20240925/1727249352790140.png",
+    "source_url": "https://www.digitaling.com/articles/1261294.html",
+    "width": 1008,
+    "height": 1290,
+    "sha256": "7ce8ce000dbf2c483d3af4a3dde906e41ee1370c872ee3528d1838663337a87d",
+    "bytes": 903270,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/about-skateboard-p114.png",
+    "reference_cards": [
+      "R23"
+    ]
+  },
+  {
+    "id": "about-interview-p153",
+    "url": "https://file.digitaling.com/eImg/uimages/20240925/1727237772346266.png",
+    "source_url": "https://www.digitaling.com/articles/1261294.html",
+    "width": 904,
+    "height": 1250,
+    "sha256": "09cf8931ffcc959b978a9cabb16e46bf0ba4e8afd6133a5cb734ed5c1528e649",
+    "bytes": 1202008,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/about-interview-p153.png",
+    "reference_cards": [
+      "R24"
+    ]
+  },
+  {
+    "id": "about-cultural-snacks-p168",
+    "url": "https://file.digitaling.com/eImg/uimages/20240925/1727237856419136.png",
+    "source_url": "https://www.digitaling.com/articles/1261294.html",
+    "width": 1012,
+    "height": 1292,
+    "sha256": "721805b1548c9776675ee698b98fcff938ec72911bb46a7fca56ba57a6560e7b",
+    "bytes": 585613,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/about-cultural-snacks-p168.png",
+    "reference_cards": [
+      "R25"
+    ]
+  },
+  {
+    "id": "about-editors-voice-p198",
+    "url": "https://file.digitaling.com/eImg/uimages/20240926/1727316728911147.png",
+    "source_url": "https://www.digitaling.com/articles/1261294.html",
+    "width": 890,
+    "height": 1250,
+    "sha256": "1eb69b500858c22647f61d5f407476107741e5e93079c96007fb6823af008a36",
+    "bytes": 1040364,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/about-editors-voice-p198.png",
+    "reference_cards": [
+      "R25"
+    ]
+  },
+  {
+    "id": "about-shop-pp136-137",
+    "url": "https://file.digitaling.com/eImg/uimages/20240925/1727249648356540.gif",
+    "source_url": "https://www.digitaling.com/articles/1261294.html",
+    "width": 1079,
+    "height": 728,
+    "sha256": "2825f37903bcc1664c341f436a6b2de7a65a6c19988d03e8d41a9a1b77860137",
+    "bytes": 141755,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/about-shop-pp136-137.png",
+    "reference_cards": [
+      "R26"
+    ]
+  },
+  {
+    "id": "about-shop-pp146-147",
+    "url": "https://file.digitaling.com/eImg/uimages/20240925/1727249648356540.gif",
+    "source_url": "https://www.digitaling.com/articles/1261294.html",
+    "width": 1079,
+    "height": 728,
+    "sha256": "7174da37e5b1563260f926339edb4b041d72ba6ecf82756438e0117cf0cf0f2c",
+    "bytes": 261936,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/about-shop-pp146-147.png",
+    "reference_cards": [
+      "R26"
+    ]
+  },
+  {
+    "id": "about-shop-pp150-151",
+    "url": "https://file.digitaling.com/eImg/uimages/20240925/1727249648356540.gif",
+    "source_url": "https://www.digitaling.com/articles/1261294.html",
+    "width": 1079,
+    "height": 728,
+    "sha256": "0a9151876909cb2b6eb70ec12f096cf0ba8e444d457592262ca1f40ce7893bd7",
+    "bytes": 312247,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/about-shop-pp150-151.png",
+    "reference_cards": [
+      "R26"
+    ]
+  },
+  {
+    "id": "about-shop-pp156-157",
+    "url": "https://file.digitaling.com/eImg/uimages/20240925/1727249648356540.gif",
+    "source_url": "https://www.digitaling.com/articles/1261294.html",
+    "width": 1079,
+    "height": 728,
+    "sha256": "9f65ecab155d1319ee7aade8bcbf72f84156aeb8d5f4f4fadfdfd235af10ef5b",
+    "bytes": 201153,
+    "visually_reviewed": true,
+    "review_level": "individual_image",
+    "path": "images/about-shop-pp156-157.png",
+    "reference_cards": [
+      "R26"
+    ]
+  },
+  {
+    "id": "dazed-interview-03",
+    "url": "https://substack-post-media.s3.amazonaws.com/public/images/047a5746-a59d-4679-b677-2ec3f4aa5579_2200x1450.png",
+    "source_url": "https://threadsofconversation.substack.com/p/a-thread-about-design-in-fashion-f6c",
+    "width": 2200,
+    "height": 1450,
+    "sha256": "dc2ba82bc8eb29788ed28d48830df360ca76078ae7c974d7a2bca7370f0dd64d",
+    "bytes": 6180914,
+    "visually_reviewed": true,
+    "review_level": "contact_sheet_and_selected_detail",
+    "path": "images/dazed-interview-03.png",
+    "reference_cards": [
+      "R27"
+    ]
+  },
+  {
+    "id": "dazed-interview-06",
+    "url": "https://substack-post-media.s3.amazonaws.com/public/images/af15fccf-5e59-49af-bf69-78994d88926f_1600x503.png",
+    "source_url": "https://threadsofconversation.substack.com/p/a-thread-about-design-in-fashion-f6c",
+    "width": 1600,
+    "height": 503,
+    "sha256": "4e8d3b387ca2844bc8458e9f9ae07c73a23154b0ec6b02aea6e40fbab887c8c8",
+    "bytes": 871057,
+    "visually_reviewed": true,
+    "review_level": "contact_sheet_and_selected_detail",
+    "path": "images/dazed-interview-06.png",
+    "reference_cards": [
+      "R28"
+    ]
+  },
+  {
+    "id": "dazed-interview-07",
+    "url": "https://substack-post-media.s3.amazonaws.com/public/images/74a3ef14-cb41-40fe-a92b-51eae393424d_1600x1020.png",
+    "source_url": "https://threadsofconversation.substack.com/p/a-thread-about-design-in-fashion-f6c",
+    "width": 1600,
+    "height": 1020,
+    "sha256": "c84873117aceee64e06db6af4aab3848f90f6a2af396153e992d2ab0538f528a",
+    "bytes": 2198192,
+    "visually_reviewed": true,
+    "review_level": "contact_sheet_and_selected_detail",
+    "path": "images/dazed-interview-07.png",
+    "reference_cards": [
+      "R29"
+    ]
+  },
+  {
+    "id": "buffalo6-08",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/IMG_8611.jpg",
+    "source_url": "https://magculture.com/blogs/journal/buffalo-zine-6",
+    "width": 660,
+    "height": 440,
+    "sha256": "4d786211af448c61697a19087489e0f6a6f8c35ef0566e3081026284acb43ca9",
+    "bytes": 62650,
+    "visually_reviewed": true,
+    "review_level": "contact_sheet_and_selected_detail",
+    "path": "images/buffalo6-08.jpg",
+    "reference_cards": [
+      "R30"
+    ]
+  },
+  {
+    "id": "buffalo6-11",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/IMG_8613.jpg",
+    "source_url": "https://magculture.com/blogs/journal/buffalo-zine-6",
+    "width": 660,
+    "height": 440,
+    "sha256": "f072b5422f5ac66db580e217b86eea355ef883246cb5e7534895c889d6a928cd",
+    "bytes": 81742,
+    "visually_reviewed": true,
+    "review_level": "contact_sheet_and_selected_detail",
+    "path": "images/buffalo6-11.jpg",
+    "reference_cards": [
+      "R30"
+    ]
+  },
+  {
+    "id": "buffalo10-11",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/IMG_3494.jpg",
+    "source_url": "https://magculture.com/blogs/journal/buffalo-zine-10",
+    "width": 660,
+    "height": 440,
+    "sha256": "3d1f80d2b3a3bb63818c3908fd716837ef827b1916e5dac08f9d2bcadc00d88b",
+    "bytes": 98630,
+    "visually_reviewed": true,
+    "review_level": "contact_sheet_and_selected_detail",
+    "path": "images/buffalo10-11.jpg",
+    "reference_cards": [
+      "R31"
+    ]
+  },
+  {
+    "id": "buffalo10-14",
+    "url": "https://cdn.shopify.com/s/files/1/0514/7889/files/IMG_3496.jpg",
+    "source_url": "https://magculture.com/blogs/journal/buffalo-zine-10",
+    "width": 660,
+    "height": 440,
+    "sha256": "5d10306d2421485fafe64fc689fd2a0fb4cce77c0ebcc9135249ddbbb635372e",
+    "bytes": 67203,
+    "visually_reviewed": true,
+    "review_level": "contact_sheet_and_selected_detail",
+    "path": "images/buffalo10-14.jpg",
+    "reference_cards": [
+      "R31"
+    ]
   }
 ]
