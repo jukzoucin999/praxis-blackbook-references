@@ -1,0 +1,192 @@
+[
+  {
+    "id": "a24-tax-designer-02",
+    "path": "images/a24-tax-designer-02.png",
+    "url": "https://freight.cargo.site/t/original/i/337e277395c2a3f75843104c399cbea3af9fcad66ec6b15add29c8e86883dfda/A24_EEAAO_Zine_03.png",
+    "source_url": "https://shira-inbar.com/A24-Zine-Tax-Season",
+    "width": 1200,
+    "height": 950,
+    "sha256": "0ac25b0c0c6d626185f1ea8781e1e5c52086f5496a49e9796e82edb47cdcc8fe",
+    "bytes": 1788591
+  },
+  {
+    "id": "a24-tax-designer-05",
+    "path": "images/a24-tax-designer-05.png",
+    "url": "https://freight.cargo.site/t/original/i/bc1baaac61f1d9b6734f5b369587d7997f1bd4c93bb4e656e21f99602dc80af3/A24_EEAAO_Zine_08.png",
+    "source_url": "https://shira-inbar.com/A24-Zine-Tax-Season",
+    "width": 1200,
+    "height": 950,
+    "sha256": "68bb30a52153b1a74beb4ef71ee622e2915a6884421e369462fb9add3b8c9061",
+    "bytes": 1795634
+  },
+  {
+    "id": "a24-tax-designer-06",
+    "path": "images/a24-tax-designer-06.png",
+    "url": "https://freight.cargo.site/t/original/i/a8b0d4cd0975ae45503fc19ef965747bc87ae9f601e3900f0dfb7f4c98c04de0/A24_EEAAO_Zine_05.png",
+    "source_url": "https://shira-inbar.com/A24-Zine-Tax-Season",
+    "width": 1200,
+    "height": 950,
+    "sha256": "2b485a2740f5ea4fd97ab1de9ed1416bb4a23864d7e9793b7cae3a718b952fc3",
+    "bytes": 1582971
+  },
+  {
+    "id": "a24-frenemies-designer-07",
+    "path": "images/a24-frenemies-designer-07.png",
+    "url": "https://freight.cargo.site/t/original/i/8cdae577cd7a5136497fdcebda4c4017f13fc3dab6dcf9a05dbcff66465d934b/Reijn_ISSUE19_BBB-Frenemies_1200x950_08.png",
+    "source_url": "https://shira-inbar.com/A24-Zine-Frenemies",
+    "width": 1200,
+    "height": 950,
+    "sha256": "95cee7a9833db14036a9ef961c16d73780363152c48326f3e049e8db07ad1ba0",
+    "bytes": 1795407
+  },
+  {
+    "id": "a24-frenemies-designer-08",
+    "path": "images/a24-frenemies-designer-08.png",
+    "url": "https://freight.cargo.site/t/original/i/6713fb3e571758b84a04a912518327b7fdf4b5c259073ef0f92e00d5b5fd7d9a/Reijn_ISSUE19_BBB-Frenemies_1200x950_04.png",
+    "source_url": "https://shira-inbar.com/A24-Zine-Frenemies",
+    "width": 1200,
+    "height": 950,
+    "sha256": "e7167de3c907abaa5c734edfe8fa0b42c56eeda38efd38f8ce90911ab92d1d6b",
+    "bytes": 2213115
+  },
+  {
+    "id": "playground-36kr-05",
+    "path": "images/playground-36kr-05.jpg",
+    "url": "https://img.36krcdn.com/hsossms/20250516/v2_9a804072e6c2435988b088837eb8fb3a@5679941_oswg1345605oswg1018oswg668_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "source_url": "https://eu.36kr.com/en/p/3294997781121029",
+    "width": 1018,
+    "height": 668,
+    "sha256": "a4dc90e9b40fbe08b9757a07373cc710c291eb21f299f122cdb14eca21bb0dcd",
+    "bytes": 153644
+  },
+  {
+    "id": "playground-36kr-09",
+    "path": "images/playground-36kr-09.jpg",
+    "url": "https://img.36krcdn.com/hsossms/20250516/v2_9a3b4224a5a24685b75ce03c92cea45b@5679941_oswg1180003oswg1027oswg679_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "source_url": "https://eu.36kr.com/en/p/3294997781121029",
+    "width": 1027,
+    "height": 679,
+    "sha256": "415b3127c06e64a262152c0c40f4dccd557892356189eae75ddafd357d43a12a",
+    "bytes": 116503
+  },
+  {
+    "id": "playground-36kr-10",
+    "path": "images/playground-36kr-10.jpg",
+    "url": "https://img.36krcdn.com/hsossms/20250516/v2_4874cc0287df4bc9a42aac37c344f6e3@5679941_oswg256585oswg1014oswg784_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "source_url": "https://eu.36kr.com/en/p/3294997781121029",
+    "width": 1014,
+    "height": 784,
+    "sha256": "df22b3ee1a040918d0133b65932483b754c55b16bcc96a851824c15a9af5627d",
+    "bytes": 45467
+  },
+  {
+    "id": "playground-36kr-12",
+    "path": "images/playground-36kr-12.jpg",
+    "url": "https://img.36krcdn.com/hsossms/20250516/v2_ee53040686fa44a386cfa015cd60d587@5679941_oswg165224oswg1080oswg800_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "source_url": "https://eu.36kr.com/en/p/3294997781121029",
+    "width": 1080,
+    "height": 800,
+    "sha256": "2c53846088fb756ff0efaa5bd5708f6d37e995bcfd12b4e579225b848737cf76",
+    "bytes": 165224
+  },
+  {
+    "id": "eye-designer-08",
+    "path": "images/eye-designer-08.png",
+    "url": "https://freight.cargo.site/t/original/i/7bb312cea25ffe33bf01c8c0b3224ff80c44ad48b3f9e5a91e1dfaf063af6d61/SI_EOD_spreads_019.png",
+    "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
+    "width": 2400,
+    "height": 1600,
+    "sha256": "ed04726253ba08c3f62aae0875f0e2f4a681925faefc80f99cec7fdc2a9e8ba7",
+    "bytes": 1234025
+  },
+  {
+    "id": "eye-designer-14",
+    "path": "images/eye-designer-14.png",
+    "url": "https://freight.cargo.site/t/original/i/c9707b5ea1687a6f4d5651b4aa1b1486fe94bc3973d037e0aa5e987f82549eb2/SI_EOD_spreads_056.png",
+    "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
+    "width": 2400,
+    "height": 1600,
+    "sha256": "a2b821ff08ca7813fb2cf1e99aaefdb7ac75e35c97d86fe5c83e1a92feba462d",
+    "bytes": 1202807
+  },
+  {
+    "id": "eye-designer-15",
+    "path": "images/eye-designer-15.png",
+    "url": "https://freight.cargo.site/t/original/i/5487824c400c103e1c9727fd393d7f0df54eb74bd0b5bdd51eb8d2eaf214a89c/SI_EOD_spreads_059.png",
+    "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
+    "width": 2400,
+    "height": 1600,
+    "sha256": "b9f10f4588c00451e514a23bf6bb009b2abcb18b2c97626455ba64c6818cd751",
+    "bytes": 1283888
+  },
+  {
+    "id": "eye-designer-16",
+    "path": "images/eye-designer-16.png",
+    "url": "https://freight.cargo.site/t/original/i/71a3d7e1b35b2b2dfe552acd384de3a2882d9407e4097fe42aa590d6fdf9fca6/SI_EOD_spreads_058.png",
+    "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
+    "width": 2400,
+    "height": 1600,
+    "sha256": "f1c482165aa3446f45c4972cdd59e30025072bc7b53854d520415f04a7b497ee",
+    "bytes": 1317093
+  },
+  {
+    "id": "eye-designer-17",
+    "path": "images/eye-designer-17.png",
+    "url": "https://freight.cargo.site/t/original/i/1cc76fae829059609daa7a4e7dfdd9e0d3e39b2ceef345653a04b7cd432bae11/SI_EOD_spreads_057.png",
+    "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
+    "width": 2400,
+    "height": 1600,
+    "sha256": "da58d9bc64da4327c029ea5c95685d9572794023df412ee0263a2714f3b43b96",
+    "bytes": 1211614
+  },
+  {
+    "id": "eye-designer-18",
+    "path": "images/eye-designer-18.png",
+    "url": "https://freight.cargo.site/t/original/i/ed2549cc3ad561b36e4260c7a27484394950dcc22586b14390004e56061bc0dd/SI_EOD_spreads_061.png",
+    "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
+    "width": 2400,
+    "height": 1600,
+    "sha256": "89e406febd5b0a119f527cb7ad7beaea96273b74075ddec8c953413b144e14f4",
+    "bytes": 1301255
+  },
+  {
+    "id": "eye-designer-19",
+    "path": "images/eye-designer-19.png",
+    "url": "https://freight.cargo.site/t/original/i/57f0189e62a3b5a1c299bd6ea41aed1f54bf894050da7db3bba73b675af6c2ba/SI_EOD_spreads_060.png",
+    "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
+    "width": 2400,
+    "height": 1600,
+    "sha256": "3c231b25b3f1cbe1de1f6af564e3335916ff1e1db8ca64a170998ea39c23d257",
+    "bytes": 1178178
+  },
+  {
+    "id": "eye-designer-20",
+    "path": "images/eye-designer-20.png",
+    "url": "https://freight.cargo.site/t/original/i/c06c18641f1f72ca6db6e620c3fe5158b8bb694a000cc5b285c6aeb1e6c0a08a/SI_EOD_spreads_070.png",
+    "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
+    "width": 2400,
+    "height": 1600,
+    "sha256": "0d715887aace186fdf8b052531e9fba4cd00669afdf20e4763b244537c344e17",
+    "bytes": 1221498
+  },
+  {
+    "id": "eye-designer-21",
+    "path": "images/eye-designer-21.png",
+    "url": "https://freight.cargo.site/t/original/i/f9713ba5bb7f673a4aa357d7cb4f97803ee41e8a603d5ce8c6feb8b0d40461f7/SI_EOD_spreads_071.png",
+    "source_url": "https://shira-inbar.com/Eye-on-Design-Magazine",
+    "width": 2400,
+    "height": 1600,
+    "sha256": "4b911d849e52b424cb66d51160a296cbcf7fa674a3aa6a181f7b4709bb36c049",
+    "bytes": 1208839
+  },
+  {
+    "id": "wor-info-03",
+    "path": "images/wor-info-03.jpg",
+    "url": "https://storage.ghost.io/c/f9/9b/f99be44b-1513-48cb-a1ee-84aa342901cb/content/images/S3/grafik/11509/2b32283a-bf44-4302-ae64-75ac660d0830.jpg",
+    "source_url": "https://www.grafik.net/data-bomb/",
+    "width": 620,
+    "height": 388,
+    "sha256": "b6921b79d240eb89e7e5f5c53440e33f812776325dbe382443e167d22e63ba2c",
+    "bytes": 138065
+  }
+]
